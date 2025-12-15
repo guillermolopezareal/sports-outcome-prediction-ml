@@ -21,6 +21,7 @@ This probabilistic output enables a more nuanced interpretation than binary pred
 
 ## 📂 Repository Structure
 
+```text
 soccer-match-outcome-prediction-ml/
 │
 ├── src/
@@ -36,6 +37,7 @@ soccer-match-outcome-prediction-ml/
 │
 ├── Report.pdf
 └── README.md
+```
 
 📊 Dataset
 

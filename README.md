@@ -37,7 +37,7 @@ soccer-match-outcome-prediction-ml/
 ├── Report.pdf
 └── README.md
 ```
-
+---
 📊 Dataset
 
 The models are trained using the English Premier League football results and betting odds dataset, which contains approximately 6,000 matches spanning multiple seasons.
@@ -52,7 +52,9 @@ Selected input features include:
 Target label:
   Full Time Result (FTR): {Home win, Draw, Away win}
 
-🔧 Data Preprocessing
+---
+
+## 🔧 Data Preprocessing
 
 The preprocessing pipeline includes:
 Feature selection and cleaning
@@ -62,7 +64,9 @@ Train / validation / test split
 Reshaping inputs for sequential models
 The final dataset is structured to be compatible with recurrent neural network architectures.
 
-🧠 Models
+---
+
+## 🧠 Models
 1️⃣ Recurrent Neural Network (RNN)
 Designed to capture sequential dependencies in match statistics
 Dense layers stacked after recurrent units
@@ -74,7 +78,9 @@ Applied to the same feature set for comparison
 Trained and evaluated under identical conditions
 Architectural details and diagrams are provided in the report.
 
-📈 Results
+---
+
+## 📈 Results
 
 RNN Test Accuracy: ~56.25%
 LSTM Test Accuracy: ~55.83%

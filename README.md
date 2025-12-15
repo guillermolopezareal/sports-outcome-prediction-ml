@@ -31,10 +31,9 @@ soccer-match-outcome-prediction-ml/
 │   └── README.md                     # Dataset source and feature description
 │
 ├── results/
-│   ├── rnn_training_curves.png
-│   ├── lstm_training_curves.png
-│   └── prediction_examples.png
-│
+│   ├── LSTM_results.png
+│   └── RNN_results.png
+│ 
 ├── Report.pdf
 └── README.md
 ```

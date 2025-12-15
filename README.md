@@ -87,3 +87,9 @@ LSTM Test Accuracy: ~55.83%
 Although absolute accuracy values are moderate, they outperform random guessing in a three-class prediction setting and highlight the difficulty of predicting soccer outcomes. The RNN model slightly outperformed the LSTM in this specific configuration. 
 Training and validation curves illustrate stable convergence without severe overfitting.
 
+#### LSTM Results
+![results](results/LSTM_results.png)
+
+#### RNN Results
+![results](results/RNN_results.png)
+

@@ -38,7 +38,7 @@ soccer-match-outcome-prediction-ml/
 └── README.md
 ```
 ---
-📊 Dataset
+## 📊 Dataset
 
 The models are trained using the English Premier League football results and betting odds dataset, which contains approximately 6,000 matches spanning multiple seasons.
 Selected input features include:
